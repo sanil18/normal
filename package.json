@@ -1,0 +1,8 @@
+{
+  "name": "slugkit",
+  "version": "1.0.0",
+  "description": "Tiny, dependency-free helper that turns text into clean URL slugs.",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": { "test": "node test/run.js" }
+}
